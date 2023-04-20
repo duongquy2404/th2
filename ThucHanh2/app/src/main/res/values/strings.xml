@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThucHanh2</string>
+    <string-array name="filter1">
+        <item>Tên</item>
+        <item>Nội dung</item>
+    </string-array>
+
+</resources>
